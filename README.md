@@ -1,4 +1,4 @@
-# ContestTemplateTest123456
+# ContestTemplateTest
 
 Control Number: #123456
 
